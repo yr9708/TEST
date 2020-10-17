@@ -10,5 +10,6 @@
 	<h1>index</h1>
 	<a href="home.do">Go Home</a>
 	<pre>김지후다 우다다다</pre>
+	<b>난 강여림이다 우하하하하하</b>
 </body>
 </html>
